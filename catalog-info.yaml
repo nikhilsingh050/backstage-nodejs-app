@@ -8,7 +8,7 @@ metadata:
     - title: Website
       url: http://backstage-nodejs-app.io
     - title: Documentation
-      url: https://backstage-nodejs-app.io/docs
+      url: https://github.com/nikhilsingh050/backstage-nodejs-app/blob/main/README.md
   annotations:
     github.com/project-slug: nikhilsingh050/backstage-nodejs-app
     backstage.io/techdocs-ref: dir:.
