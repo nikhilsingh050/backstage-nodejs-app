@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-nodejs-app
+  description: |
+    Backstage is an open-source developer portal that puts the developer experience first.
+  links:
+    - title: Website
+      url: http://backstage-nodejs-app.io
+    - title: Documentation
+      url: https://backstage-nodejs-app.io/docs
+  annotations:
+    github.com/project-slug: nikhilsingh050/backstage-nodejs-app
+    backstage.io/techdocs-ref: dir:.
+    lighthouse.com/website-url: https://backstage.io
+spec:
+  type: library
+  owner: CNCF
+  lifecycle: experimental
